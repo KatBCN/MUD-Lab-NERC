@@ -8,3 +8,5 @@ Each experiment folder contains an updated extract-features.py file that include
 - Exp 1: Added features for token two places before current token.
 - Exp 2: Added features for token two places after current token.
 - Exp 3: Removed feature from Exp2 that identifies token as second to last place in sentence.
+- Exp 4: Added feature for prefix of length 3 to current token
+- Exp 5: Added feature for suffix and prefix of length 4 to current token
