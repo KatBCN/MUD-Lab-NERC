@@ -19,3 +19,5 @@ Each experiment folder contains an updated extract-features.py file that include
 - Exp 12: Included all features related to uppercase, lowercase, titlecase for current token
 - Exp 13: Added features related to uppercase and lowercase for two previous tokens
 - Exp 14: Added features related to uppercase and lowercase for two next tokens
+- Exp 15: Added feature to indicate if not all the characters in the current token are letters, removed features related to case for next tokens
+- Exp 16: Added features to indicate if not all the characters in the previous two and next two tokens are letters.
