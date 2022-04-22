@@ -14,3 +14,6 @@ Each experiment folder contains an updated extract-features.py file that include
 - Exp 7: Removed all prefix lengths from current token (kept all suffixes)
 - Exp 8: Added back prefix of length 3 to current token (kept all suffixes)
 - Exp 9: Added feature if current token is uppercase
+- Exp 10: Added feature if current token is titlecase, removed feature if token is uppercase
+- Exp 11: Added feature if current token is lowercase, removed feature if token is titlecase
+- Exp 12: Included all features related to uppercase, lowercase, titlecase
