@@ -63,6 +63,7 @@ DDI-DrugBank.d179.s17|24-33|Purinethol|brand
 DDI-DrugBank.d179.s18|2-11|Naltrexone|drug
 DDI-DrugBank.d179.s19|7-20|contraceptives|group
 DDI-DrugBank.d179.s19|55-62|estrogen|group
+DDI-DrugBank.d179.s20|8-22|anti-infectives|group
 DDI-DrugBank.d179.s21|2-15|Phenothiazines|group
 DDI-DrugBank.d179.s21|49-62|chlorpromazine|drug
 DDI-DrugBank.d179.s21|71-79|Thorazine|drug
@@ -417,13 +418,14 @@ DDI-DrugBank.d736.s1|62-65|ACTH|drug
 DDI-DrugBank.d736.s2|0-6|Insulin|drug
 DDI-DrugBank.d736.s3|0-8|Thiazides|group
 DDI-DrugBank.d736.s3|50-63|norepinephrine|drug
-DDI-DrugBank.d736.s5|0-13|Thiazide drugs|group
+DDI-DrugBank.d736.s5|0-7|Thiazide|drug
 DDI-DrugBank.d736.s5|50-61|tubocurarine|drug
 DDI-DrugBank.d736.s6|0-6|Lithium|drug
 DDI-DrugBank.d736.s6|38-46|thiazides|group
 DDI-DrugBank.d736.s6|72-78|lithium|drug
 DDI-DrugBank.d736.s7|0-8|Thiazides|group
 DDI-DrugBank.d736.s7|55-76|antihypertensive drugs|group
+DDI-DrugBank.d736.s8|25-34|ganglionic|group
 DDI-DrugBank.d736.s8|50-74|adrenergic blocking drugs|group
 DDI-DrugBank.d105.s0|0-13|Anticoagulants|group
 DDI-DrugBank.d105.s0|25-44|coumarin derivatives|group
@@ -705,7 +707,6 @@ DDI-DrugBank.d367.s15|29-36|atenolol|drug
 DDI-DrugBank.d367.s15|39-57|hydrochlorothiazide|drug
 DDI-DrugBank.d367.s15|60-70|propranolol|drug
 DDI-DrugBank.d367.s17|0-14|Corticosteroids|group
-DDI-DrugBank.d367.s19|0-22|Gastrointestinal agents|group
 DDI-DrugBank.d367.s19|31-38|antacids|group
 DDI-DrugBank.d367.s21|0-12|Hypoglycemics|group
 DDI-DrugBank.d367.s21|18-26|endocrine|drug
@@ -908,6 +909,7 @@ DDI-DrugBank.d81.s15|74-81|DynaCirc|brand
 DDI-DrugBank.d81.s15|85-94|isradipine|drug
 DDI-DrugBank.d531.s0|0-8|Efavirenz|drug
 DDI-DrugBank.d531.s1|112-118|SUSTIVA|brand
+DDI-DrugBank.d531.s1|121-129|efavirenz|drug
 DDI-DrugBank.d531.s2|40-48|efavirenz|drug
 DDI-DrugBank.d531.s2|112-120|efavirenz|drug
 DDI-DrugBank.d531.s3|20-28|efavirenz|drug
@@ -957,6 +959,7 @@ DDI-DrugBank.d531.s46|0-8|Methadone|drug
 DDI-DrugBank.d531.s47|63-71|methadone|drug
 DDI-DrugBank.d531.s48|0-16|Ethinyl estradiol|drug
 DDI-DrugBank.d531.s49|0-16|ethinyl estradiol|drug
+DDI-DrugBank.d531.s50|44-52|efavirenz|drug
 DDI-DrugBank.d531.s52|37-45|efavirenz|drug
 DDI-DrugBank.d531.s52|57-70|contraceptives|group
 DDI-DrugBank.d531.s52|184-197|contraceptives|group
@@ -1000,10 +1003,12 @@ DDI-DrugBank.d531.s80|0-27|Anti-HIV protease inhibitors|group
 DDI-DrugBank.d531.s80|30-49|Saquinavir/ritonavir|drug
 DDI-DrugBank.d531.s82|0-9|Amprenavir|drug
 DDI-DrugBank.d531.s83|61-70|amprenavir|drug
-DDI-DrugBank.d531.s84|0-46|Non-nucleoside reverse transcriptase inhibitors|group
+DDI-DrugBank.d531.s84|0-13|Non-nucleoside|drug
+DDI-DrugBank.d531.s84|23-46|transcriptase inhibitors|group
 DDI-DrugBank.d531.s87|52-60|efavirenz|drug
 DDI-DrugBank.d531.s87|103-109|SUSTIVA|brand
 DDI-DrugBank.d531.s90|104-110|SUSTIVA|brand
+DDI-DrugBank.d531.s90|113-121|efavirenz|drug
 DDI-DrugBank.d531.s90|182-189|antacids|group
 DDI-DrugBank.d531.s90|192-203|azithromycin|drug
 DDI-DrugBank.d531.s90|206-215|cetirizine|drug
@@ -1183,7 +1188,7 @@ DDI-MedLine.d169.s2|46-49|iron|drug
 DDI-MedLine.d169.s2|123-129|calcium|drug
 DDI-MedLine.d169.s3|52-58|calcium|drug
 DDI-MedLine.d169.s3|94-97|iron|drug
-DDI-MedLine.d169.s4|102-105|iron|drug
+DDI-MedLine.d169.s4|102-125|iron radioactive tracers|group
 DDI-MedLine.d169.s5|96-99|iron|drug
 DDI-MedLine.d169.s5|105-119|ferrous sulfate|drug
 DDI-MedLine.d169.s7|0-6|Calcium|drug
@@ -1454,7 +1459,6 @@ DDI-DrugBank.d320.s3|167-179|phenobarbital|drug
 DDI-DrugBank.d320.s3|182-189|rifampin|drug
 DDI-DrugBank.d320.s3|212-229|azole antimycotics|group
 DDI-DrugBank.d320.s3|237-248|ketoconazole|drug
-DDI-DrugBank.d320.s4|8-26|protease inhibitors|group
 DDI-DrugBank.d320.s4|34-42|ritanovir|drug
 DDI-DrugBank.d320.s5|0-20|macrolide antibiotics|group
 DDI-DrugBank.d320.s5|28-39|erythromycin|drug
@@ -2031,7 +2035,7 @@ DDI-DrugBank.d17.s27|0-13|Norepinephrine|drug
 DDI-DrugBank.d17.s28|1-9|Thiazides|group
 DDI-DrugBank.d17.s28|51-64|norepinephrine|drug
 DDI-DrugBank.d17.s30|0-11|Tubocurarine|drug
-DDI-DrugBank.d17.s31|1-14|Thiazide drugs|group
+DDI-DrugBank.d17.s31|1-8|Thiazide|drug
 DDI-DrugBank.d17.s31|51-62|tubocurarine|drug
 DDI-DrugBank.d17.s32|255-272|thiazide diuretics|group
 DDI-DrugBank.d17.s32|400-408|magnesium|drug
@@ -2279,7 +2283,6 @@ DDI-DrugBank.d237.s15|0-24|tricyclic antidepressants|group
 DDI-DrugBank.d237.s15|35-47|amitriptyline|drug
 DDI-DrugBank.d237.s16|8-34|tetracyclic antidepressants|drug
 DDI-DrugBank.d237.s16|45-55|maprotiline|drug
-DDI-DrugBank.d237.s17|8-32|antipsychotic medications|group
 DDI-DrugBank.d237.s17|43-52|sertindole|drug
 DDI-DrugBank.d237.s18|0-9|astemizole|drug
 DDI-DrugBank.d237.s18|12-19|bepridil|drug
@@ -2351,7 +2354,7 @@ DDI-DrugBank.d339.s0|24-36|carbamazepine|drug
 DDI-DrugBank.d339.s1|65-77|carbamazepine|drug
 DDI-DrugBank.d339.s2|0-7|Warfarin|drug
 DDI-DrugBank.d339.s2|13-26|Anticoagulants|group
-DDI-DrugBank.d339.s2|115-122|cefixime|drug
+DDI-DrugBank.d339.s2|115-122|cefixime|brand
 DDI-DrugBank.d339.s3|112-124|nitroprusside|drug
 DDI-DrugBank.d339.s3|151-167|nitroferricyanide|drug
 DDI-DrugBank.d339.s4|22-27|SUPRAX|brand
