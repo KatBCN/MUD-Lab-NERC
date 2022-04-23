@@ -22,3 +22,4 @@ Each experiment folder contains an updated extract-features.py file that include
 - Exp 15: Added feature to indicate if not all the characters in the current token are letters, removed features related to case for next tokens
 - Exp 16: Added features to indicate if not all the characters in the previous two and next two tokens are letters.
 - Exp 17: Added drug bank dictionary to main program and feature to indicate token's value in drug bank
+- Exp 18: Modified drug bank dictionary to be in lowercase
