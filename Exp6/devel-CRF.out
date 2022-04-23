@@ -61,6 +61,7 @@ DDI-DrugBank.d179.s16|2-19|Hydroxychloroquine|drug
 DDI-DrugBank.d179.s16|28-36|Plaquenil|drug
 DDI-DrugBank.d179.s17|24-33|Purinethol|brand
 DDI-DrugBank.d179.s18|2-11|Naltrexone|drug
+DDI-DrugBank.d179.s18|20-25|Trexan|brand
 DDI-DrugBank.d179.s19|7-20|contraceptives|group
 DDI-DrugBank.d179.s19|55-62|estrogen|group
 DDI-DrugBank.d179.s20|8-22|anti-infectives|group
@@ -99,10 +100,8 @@ DDI-DrugBank.d179.s29|2-13|Procainamide|drug
 DDI-DrugBank.d179.s29|22-30|Pronestyl|brand
 DDI-DrugBank.d179.s30|2-10|Quinidine|drug
 DDI-DrugBank.d179.s30|19-26|Quinidex|brand
-DDI-DrugBank.d179.s31|2-8|Quinine|drug
 DDI-DrugBank.d179.s32|2-10|Sulfoxone|drug
 DDI-DrugBank.d179.s32|19-25|Diasone|drug
-DDI-DrugBank.d179.s33|2-10|Vitamin K|group
 DDI-DrugBank.d179.s33|52-64|sulfapyridine|drug
 DDI-DrugBank.d179.s34|2-15|Anticoagulants|group
 DDI-DrugBank.d179.s34|18-31|blood thinners|group
@@ -1429,7 +1428,7 @@ DDI-MedLine.d100.s0|13-36|calcium-channel blockers|group
 DDI-MedLine.d100.s1|51-66|arachidonic acid|drug
 DDI-MedLine.d100.s3|11-26|arachidonic acid|drug
 DDI-MedLine.d100.s4|0-8|Adenosine|drug
-DDI-MedLine.d100.s5|13-28|calcium blockers|group
+DDI-MedLine.d100.s5|0-28|Slow-channel calcium blockers|group
 DDI-MedLine.d100.s5|39-47|verapamil|drug
 DDI-MedLine.d100.s5|50-58|diltiazem|drug
 DDI-MedLine.d100.s5|64-73|nifedipine|drug
@@ -1846,6 +1845,7 @@ DDI-DrugBank.d346.s4|16-20|REVIA|brand
 DDI-DrugBank.d346.s4|43-48|opioid|group
 DDI-DrugBank.d346.s4|109-134|antidiarrheal preparations|group
 DDI-DrugBank.d346.s4|141-157|opioid analgesics|group
+DDI-DrugBank.d346.s5|31-36|opioid|group
 DDI-DrugBank.d346.s5|113-118|opioid|group
 DDI-MedLine.d74.s2|49-63|dynamic insulin|drug
 DDI-MedLine.d74.s2|216-223|arginine|drug

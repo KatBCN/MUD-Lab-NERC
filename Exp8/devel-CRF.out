@@ -104,7 +104,6 @@ DDI-DrugBank.d179.s30|2-10|Quinidine|drug
 DDI-DrugBank.d179.s30|19-26|Quinidex|brand
 DDI-DrugBank.d179.s32|2-10|Sulfoxone|drug
 DDI-DrugBank.d179.s32|19-25|Diasone|drug
-DDI-DrugBank.d179.s33|2-10|Vitamin K|group
 DDI-DrugBank.d179.s33|52-64|sulfapyridine|drug
 DDI-DrugBank.d179.s34|2-15|Anticoagulants|group
 DDI-DrugBank.d179.s34|18-31|blood thinners|group
@@ -1429,6 +1428,7 @@ DDI-DrugBank.d213.s1|77-94|antithyroid agents|group
 DDI-DrugBank.d213.s3|0-17|Antithyroid agents|group
 DDI-DrugBank.d213.s3|142-152|Carbimazole|drug
 DDI-DrugBank.d213.s4|26-39|anticoagulants|group
+DDI-DrugBank.d213.s4|68-74|thyroid|group
 DDI-DrugBank.d213.s5|55-67|anticoagulant|group
 DDI-DrugBank.d320.s0|0-9|Chirocaine|drug
 DDI-DrugBank.d320.s0|75-85|anesthetics|group
@@ -1444,7 +1444,6 @@ DDI-DrugBank.d320.s3|167-179|phenobarbital|drug
 DDI-DrugBank.d320.s3|182-189|rifampin|drug
 DDI-DrugBank.d320.s3|212-229|azole antimycotics|group
 DDI-DrugBank.d320.s3|237-248|ketoconazole|drug
-DDI-DrugBank.d320.s4|8-26|protease inhibitors|group
 DDI-DrugBank.d320.s4|34-42|ritanovir|drug
 DDI-DrugBank.d320.s5|0-20|macrolide antibiotics|group
 DDI-DrugBank.d320.s5|28-39|erythromycin|drug
@@ -1465,7 +1464,7 @@ DDI-MedLine.d100.s0|63-78|arachidonic acid|drug
 DDI-MedLine.d100.s1|51-66|arachidonic acid|drug
 DDI-MedLine.d100.s3|11-26|arachidonic acid|drug
 DDI-MedLine.d100.s4|0-31|Adenosine 3':5'-cyclic phosphate|drug
-DDI-MedLine.d100.s5|13-28|calcium blockers|group
+DDI-MedLine.d100.s5|0-28|Slow-channel calcium blockers|group
 DDI-MedLine.d100.s5|39-47|verapamil|drug
 DDI-MedLine.d100.s5|50-58|diltiazem|drug
 DDI-MedLine.d100.s5|64-73|nifedipine|drug
@@ -1799,7 +1798,7 @@ DDI-DrugBank.d97.s24|20-29|atazanavir|drug
 DDI-DrugBank.d97.s25|18-27|atazanavir|drug
 DDI-DrugBank.d97.s26|74-81|CRIXIVAN|brand
 DDI-DrugBank.d97.s26|87-96|atazanavir|drug
-DDI-DrugBank.d97.s32|4-19|Antiviral Agents|group
+DDI-DrugBank.d97.s32|0-19|HIV Antiviral Agents|group
 DDI-DrugBank.d97.s33|0-10|Delavirdine|drug
 DDI-DrugBank.d97.s34|0-8|indinavir|drug
 DDI-DrugBank.d97.s35|84-94|delavirdine|drug

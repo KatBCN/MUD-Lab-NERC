@@ -1,5 +1,5 @@
 DDI-MedLine.d180.s1|4-22|3-Deazaneplanocin A|drug
-DDI-MedLine.d180.s1|40-61|S-adenosylhomocysteine|drug_n
+DDI-MedLine.d180.s1|40-61|S-adenosylhomocysteine|drug
 DDI-MedLine.d180.s12|106-112|ABT-737|brand
 DDI-DrugBank.d278.s0|0-9|Enoxaparin|drug
 DDI-DrugBank.d278.s0|113-124|eptifibatide|drug
@@ -44,7 +44,6 @@ DDI-DrugBank.d179.s2|2-11|Amiodarone|drug
 DDI-DrugBank.d179.s2|20-28|Cordarone|drug
 DDI-DrugBank.d179.s3|2-18|Anabolic steroids|group
 DDI-DrugBank.d179.s3|39-46|Anabolin|brand
-DDI-DrugBank.d179.s3|50-60|oxandrolone|drug
 DDI-DrugBank.d179.s3|69-74|Anavar|brand
 DDI-DrugBank.d179.s3|78-89|oxymetholone|drug
 DDI-DrugBank.d179.s3|98-104|Anadrol|brand
@@ -1163,7 +1162,6 @@ DDI-DrugBank.d489.s9|224-236|beta-blockers|group
 DDI-DrugBank.d489.s10|56-66|epinephrine|drug
 DDI-MedLine.d62.s0|54-68|methamphetamine|drug
 DDI-MedLine.d62.s1|141-155|methamphetamine|drug
-DDI-MedLine.d62.s3|179-186|spectrin|drug
 DDI-MedLine.d62.s4|279-287|clozapine|drug
 DDI-DrugBank.d449.s0|23-39|antifungal agents|group
 DDI-DrugBank.d449.s0|49-60|ketoconazole|drug
@@ -1323,6 +1321,7 @@ DDI-DrugBank.d475.s0|112-120|phenytoin|drug
 DDI-DrugBank.d475.s0|127-134|warfarin|drug
 DDI-DrugBank.d475.s1|0-9|Nizatidine|drug
 DDI-DrugBank.d475.s3|47-53|aspirin|brand
+DDI-DrugBank.d475.s3|81-90|salicylate|group
 DDI-DrugBank.d475.s3|114-123|nizatidine|drug
 DDI-DrugBank.d497.s0|57-84|carbonic anhydrase inhibitor|group
 DDI-DrugBank.d497.s1|84-95|brinzolamide|drug
@@ -1501,7 +1500,7 @@ DDI-DrugBank.d213.s1|23-29|digoxin|drug
 DDI-DrugBank.d213.s1|35-43|digitoxin|drug
 DDI-DrugBank.d213.s1|77-94|antithyroid agents|group
 DDI-DrugBank.d213.s3|0-17|Antithyroid agents|group
-DDI-DrugBank.d213.s3|52-69|sodium iodide I131|drug
+DDI-DrugBank.d213.s3|66-69|I131|brand
 DDI-DrugBank.d213.s3|142-152|Carbimazole|drug
 DDI-DrugBank.d213.s4|26-39|anticoagulants|group
 DDI-DrugBank.d213.s5|55-67|anticoagulant|group
@@ -2091,7 +2090,6 @@ DDI-DrugBank.d287.s5|120-129|cevimeline|drug
 DDI-DrugBank.d17.s0|0-13|Anticoagulants|group
 DDI-DrugBank.d17.s1|54-71|thiazide diuretics|group
 DDI-DrugBank.d17.s4|1-18|Thiazide diuretics|group
-DDI-DrugBank.d17.s4|49-57|uric acid|drug
 DDI-DrugBank.d17.s5|21-40|antigout medications|group
 DDI-DrugBank.d17.s6|0-27|Antihypertensive medications|group
 DDI-DrugBank.d17.s6|48-56|diazoxide|drug
@@ -2324,7 +2322,6 @@ DDI-MedLine.d59.s0|77-85|carbachol|drug
 DDI-MedLine.d59.s2|31-39|carbachol|drug
 DDI-MedLine.d59.s3|38-46|carbachol|drug
 DDI-MedLine.d59.s4|75-83|carbachol|drug
-DDI-MedLine.d59.s6|29-61|cytochalasin D redistributed type|group
 DDI-DrugBank.d237.s0|0-8|Cisapride|drug
 DDI-DrugBank.d237.s1|113-121|cisapride|drug
 DDI-DrugBank.d237.s1|211-219|cisapride|drug

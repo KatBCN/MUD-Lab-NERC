@@ -108,7 +108,6 @@ DDI-DrugBank.d179.s30|2-10|Quinidine|drug
 DDI-DrugBank.d179.s30|19-26|Quinidex|brand
 DDI-DrugBank.d179.s32|2-10|Sulfoxone|drug
 DDI-DrugBank.d179.s32|19-25|Diasone|drug
-DDI-DrugBank.d179.s33|2-10|Vitamin K|group
 DDI-DrugBank.d179.s33|52-64|sulfapyridine|drug
 DDI-DrugBank.d179.s34|2-15|Anticoagulants|group
 DDI-DrugBank.d179.s34|18-31|blood thinners|group
@@ -254,7 +253,7 @@ DDI-DrugBank.d318.s1|0-20|Antineoplastic agents|group
 DDI-DrugBank.d318.s1|30-45|nitrogen mustard|group
 DDI-DrugBank.d318.s2|0-14|Corticosteroids|group
 DDI-DrugBank.d318.s2|20-32|Corticotropin|drug
-DDI-DrugBank.d318.s2|35-38|ACTH|drug
+DDI-DrugBank.d318.s2|35-38|ACTH|group
 DDI-DrugBank.d318.s2|57-68|amphotericin|drug
 DDI-DrugBank.d318.s3|66-79|amphotericin B|drug
 DDI-DrugBank.d318.s5|0-19|Digitalis glycosides|group
@@ -1133,6 +1132,7 @@ DDI-DrugBank.d489.s7|262-270|diltiazem|drug
 DDI-DrugBank.d489.s8|69-81|beta-blockers|group
 DDI-DrugBank.d489.s8|104-114|epinephrine|drug
 DDI-DrugBank.d489.s8|156-168|beta-blockers|group
+DDI-DrugBank.d489.s9|36-46|anaphylaxis|brand
 DDI-DrugBank.d489.s9|175-184|diagnostic|group
 DDI-DrugBank.d489.s9|224-236|beta-blockers|group
 DDI-DrugBank.d489.s10|56-66|epinephrine|drug
@@ -1490,7 +1490,6 @@ DDI-DrugBank.d320.s3|167-179|phenobarbital|drug
 DDI-DrugBank.d320.s3|182-189|rifampin|drug
 DDI-DrugBank.d320.s3|212-229|azole antimycotics|group
 DDI-DrugBank.d320.s3|237-248|ketoconazole|drug
-DDI-DrugBank.d320.s4|8-26|protease inhibitors|group
 DDI-DrugBank.d320.s4|34-42|ritanovir|drug
 DDI-DrugBank.d320.s5|0-20|macrolide antibiotics|group
 DDI-DrugBank.d320.s5|28-39|erythromycin|drug
@@ -1513,7 +1512,7 @@ DDI-MedLine.d100.s1|51-66|arachidonic acid|drug
 DDI-MedLine.d100.s3|11-26|arachidonic acid|drug
 DDI-MedLine.d100.s3|103-132|vasoconstrictor thromboxane A2|group
 DDI-MedLine.d100.s4|0-31|Adenosine 3':5'-cyclic phosphate|drug
-DDI-MedLine.d100.s5|13-28|calcium blockers|group
+DDI-MedLine.d100.s5|0-28|Slow-channel calcium blockers|group
 DDI-MedLine.d100.s5|39-47|verapamil|drug
 DDI-MedLine.d100.s5|50-58|diltiazem|drug
 DDI-MedLine.d100.s5|64-73|nifedipine|drug
@@ -2390,6 +2389,7 @@ DDI-DrugBank.d514.s4|67-72|heroin|drug_n
 DDI-MedLine.d73.s0|52-95|1-methyl-4-phenyl-1,2,5,6-tetrahydropyridine|drug_n
 DDI-MedLine.d73.s0|98-101|MPTP|drug_n
 DDI-MedLine.d73.s0|108-122|methamphetamine|drug
+DDI-MedLine.d73.s1|56-59|MPTP|brand
 DDI-MedLine.d73.s1|144-158|methamphetamine|drug
 DDI-MedLine.d73.s2|21-24|MPTP|drug_n
 DDI-MedLine.d73.s2|143-151|pargyline|drug
@@ -2627,6 +2627,7 @@ DDI-DrugBank.d658.s2|147-155|estradiol|drug
 DDI-DrugBank.d658.s2|175-181|calcium|drug
 DDI-DrugBank.d658.s2|242-249|creatine|drug
 DDI-DrugBank.d658.s2|255-269|17-ketosteroids|group
+DDI-DrugBank.d269.s1|21-31|debrisoquin|drug
 DDI-DrugBank.d269.s1|50-59|carvedilol|drug
 DDI-DrugBank.d269.s1|103-111|quinidine|drug
 DDI-DrugBank.d269.s1|114-123|fluoxetine|drug

@@ -101,7 +101,6 @@ DDI-DrugBank.d179.s30|19-26|Quinidex|brand
 DDI-DrugBank.d179.s31|2-8|Quinine|drug
 DDI-DrugBank.d179.s32|2-10|Sulfoxone|drug
 DDI-DrugBank.d179.s32|19-25|Diasone|drug
-DDI-DrugBank.d179.s33|2-10|Vitamin K|group
 DDI-DrugBank.d179.s33|52-64|sulfapyridine|drug
 DDI-DrugBank.d179.s34|2-15|Anticoagulants|group
 DDI-DrugBank.d179.s34|18-31|blood thinners|group
@@ -646,7 +645,6 @@ DDI-DrugBank.d95.s0|69-79|cyclosporin|drug
 DDI-DrugBank.d95.s1|0-8|Ibuprofen|drug
 DDI-DrugBank.d95.s1|12-21|L-arginine|drug
 DDI-DrugBank.d95.s1|54-62|ibuprofen|drug
-DDI-DrugBank.d95.s2|8-15|nitrates|group
 DDI-DrugBank.d95.s2|19-28|L-arginine|drug
 DDI-DrugBank.d95.s2|86-101|organic nitrates|group
 DDI-DrugBank.d95.s3|0-17|Sildenafil citrate|drug
@@ -908,6 +906,7 @@ DDI-DrugBank.d531.s5|123-131|efavirenz|drug
 DDI-DrugBank.d531.s6|23-29|SUSTIVA|brand
 DDI-DrugBank.d531.s10|0-13|Antihistamines|group
 DDI-DrugBank.d531.s10|16-30|Benzodiazepines|group
+DDI-DrugBank.d531.s10|51-74|Anti-Migraine Antifungal|group
 DDI-DrugBank.d531.s11|11-19|midazolam|drug
 DDI-DrugBank.d531.s11|60-71|voriconazole|drug
 DDI-DrugBank.d531.s17|0-9|Atazanavir|drug
@@ -1247,7 +1246,6 @@ DDI-DrugBank.d219.s25|44-49|Lodine|drug
 DDI-DrugBank.d219.s26|196-203|warfarin|drug
 DDI-DrugBank.d219.s27|65-70|Lodine|drug
 DDI-DrugBank.d219.s27|187-194|etodolac|drug
-DDI-DrugBank.d219.s28|49-54|ketone|drug
 DDI-DrugBank.d219.s28|143-148|Lodine|drug
 DDI-DrugBank.d219.s31|0-5|Lodine|drug
 DDI-DrugBank.d219.s32|97-104|etodolac|drug
@@ -1410,7 +1408,7 @@ DDI-DrugBank.d530.s0|61-78|phenelzine sulfate|drug
 DDI-DrugBank.d530.s0|81-103|tranylcypromine sulfate|drug
 DDI-DrugBank.d530.s0|109-117|pargyline|drug
 DDI-DrugBank.d530.s1|19-33|L-phenylalanine|drug
-DDI-DrugBank.d530.s1|39-66|non-selective MAO inhibitors|group
+DDI-DrugBank.d530.s1|53-66|MAO inhibitors|group
 DDI-DrugBank.d530.s2|0-9|Selegiline|drug
 DDI-DrugBank.d530.s2|13-27|L-phenylalanine|drug
 DDI-DrugBank.d530.s2|61-70|selegiline|drug
@@ -2549,6 +2547,7 @@ DDI-DrugBank.d658.s2|95-103|estradiol|drug
 DDI-DrugBank.d658.s2|147-155|estradiol|drug
 DDI-DrugBank.d658.s2|175-181|calcium|drug
 DDI-DrugBank.d658.s2|242-249|creatine|drug
+DDI-DrugBank.d658.s2|255-269|17-ketosteroids|group
 DDI-DrugBank.d269.s1|21-31|debrisoquin|drug
 DDI-DrugBank.d269.s1|50-59|carvedilol|drug
 DDI-DrugBank.d269.s1|103-111|quinidine|drug

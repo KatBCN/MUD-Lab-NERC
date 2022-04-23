@@ -1254,8 +1254,7 @@ DDI-MedLine.d169.s7|0-6|Calcium|drug
 DDI-MedLine.d169.s7|28-43|calcium chloride|drug
 DDI-MedLine.d169.s8|0-6|Calcium|drug
 DDI-MedLine.d169.s9|60-63|iron|drug
-DDI-MedLine.d169.s10|53-59|calcium|drug
-DDI-MedLine.d169.s10|65-72|chloride|drug
+DDI-MedLine.d169.s10|53-72|calcium ( as chloride|drug
 DDI-MedLine.d169.s10|100-103|iron|drug
 DDI-MedLine.d169.s10|129-135|sulfate|drug
 DDI-MedLine.d169.s10|157-160|iron|drug
@@ -2058,7 +2057,6 @@ DDI-DrugBank.d44.s0|60-66|RAPTIVA|brand
 DDI-DrugBank.d44.s1|0-6|RAPTIVA|brand
 DDI-DrugBank.d44.s1|38-60|immunosuppressive drugs|group
 DDI-DrugBank.d44.s2|11-14|live|group
-DDI-DrugBank.d44.s2|36-43|vaccines|group
 DDI-DrugBank.d694.s0|0-6|Digoxin|drug
 DDI-DrugBank.d694.s0|124-130|digoxin|drug
 DDI-DrugBank.d694.s0|169-179|sitagliptin|drug
@@ -2347,7 +2345,6 @@ DDI-DrugBank.d107.s17|29-35|lithium|drug
 DDI-DrugBank.d107.s17|71-79|enalapril|drug
 DDI-DrugBank.d107.s17|116-122|lithium|drug
 DDI-MedLine.d59.s0|77-85|carbachol|drug
-DDI-MedLine.d59.s1|93-103|aminopyrine|drug
 DDI-MedLine.d59.s2|31-39|carbachol|drug
 DDI-MedLine.d59.s3|38-46|carbachol|drug
 DDI-MedLine.d59.s4|75-83|carbachol|drug

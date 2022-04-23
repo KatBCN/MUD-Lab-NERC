@@ -61,6 +61,7 @@ DDI-DrugBank.d179.s17|24-33|Purinethol|brand
 DDI-DrugBank.d179.s18|2-11|Naltrexone|drug
 DDI-DrugBank.d179.s19|7-20|contraceptives|group
 DDI-DrugBank.d179.s19|55-62|estrogen|group
+DDI-DrugBank.d179.s20|8-22|anti-infectives|group
 DDI-DrugBank.d179.s21|2-15|Phenothiazines|group
 DDI-DrugBank.d179.s21|49-62|chlorpromazine|drug
 DDI-DrugBank.d179.s21|71-79|Thorazine|drug
@@ -509,7 +510,6 @@ DDI-DrugBank.d739.s13|0-12|Phenobarbital|drug
 DDI-DrugBank.d739.s15|112-124|phenobarbital|drug
 DDI-DrugBank.d739.s15|129-136|rifampin|drug
 DDI-MedLine.d65.s1|21-37|theraputic agents|group
-DDI-MedLine.d65.s2|91-100|physciains|group
 DDI-MedLine.d65.s4|0-9|Guidelines|group
 DDI-MedLine.d65.s5|87-93|provide|drug
 DDI-DrugBank.d737.s0|0-17|Carbidopa/Levodopa|drug
@@ -893,7 +893,7 @@ DDI-DrugBank.d81.s13|43-50|DynaCirc|brand
 DDI-DrugBank.d81.s13|54-63|isradipine|drug
 DDI-DrugBank.d81.s13|70-76|digoxin|drug
 DDI-DrugBank.d81.s13|176-182|digoxin|drug
-DDI-DrugBank.d81.s14|0-18|Fentanyl Anesthesia|drug
+DDI-DrugBank.d81.s14|0-7|Fentanyl|drug
 DDI-DrugBank.d81.s14|65-72|fentanyl|drug
 DDI-DrugBank.d81.s14|111-122|beta blocker|group
 DDI-DrugBank.d81.s14|130-152|calcium channel blocker|group
@@ -1281,7 +1281,7 @@ DDI-DrugBank.d761.s2|0-6|Digoxin|drug
 DDI-DrugBank.d761.s2|48-54|XENICAL|brand
 DDI-DrugBank.d761.s2|156-162|digoxin|drug
 DDI-DrugBank.d761.s3|12-30|Vitamin Supplements|group
-DDI-DrugBank.d761.s4|34-50|vitamin E acetate|group
+DDI-DrugBank.d761.s4|34-42|vitamin E|group
 DDI-DrugBank.d761.s5|57-65|vitamin D|group
 DDI-DrugBank.d761.s5|68-76|vitamin A|group
 DDI-DrugBank.d761.s5|105-113|vitamin K|group
@@ -1444,7 +1444,6 @@ DDI-DrugBank.d320.s3|167-179|phenobarbital|drug
 DDI-DrugBank.d320.s3|182-189|rifampin|drug
 DDI-DrugBank.d320.s3|212-229|azole antimycotics|group
 DDI-DrugBank.d320.s3|237-248|ketoconazole|drug
-DDI-DrugBank.d320.s4|8-26|protease inhibitors|group
 DDI-DrugBank.d320.s4|34-42|ritanovir|drug
 DDI-DrugBank.d320.s5|0-20|macrolide antibiotics|group
 DDI-DrugBank.d320.s5|28-39|erythromycin|drug
@@ -1558,7 +1557,7 @@ DDI-DrugBank.d328.s22|59-68|valdecoxib|drug
 DDI-DrugBank.d328.s23|0-7|Warfarin|drug
 DDI-DrugBank.d328.s23|24-33|valdecoxib|drug
 DDI-DrugBank.d328.s23|66-73|warfarin|drug
-DDI-DrugBank.d328.s23|145-150|BEXTRA|brand
+DDI-DrugBank.d328.s23|145-150|BEXTRA|drug
 DDI-DrugBank.d328.s24|0-9|Valdecoxib|drug
 DDI-DrugBank.d328.s24|78-87|R-warfarin|drug
 DDI-DrugBank.d328.s24|93-102|S-warfarin|drug
@@ -1726,7 +1725,7 @@ DDI-DrugBank.d141.s0|25-47|Fibric Acid Derivatives|group
 DDI-DrugBank.d141.s0|50-55|Niacin|drug
 DDI-DrugBank.d141.s0|58-71|Nicotinic Acid|drug
 DDI-DrugBank.d141.s0|74-85|Erythromycin|drug
-DDI-DrugBank.d141.s0|88-92|Azole|drug
+DDI-DrugBank.d141.s0|88-104|Azole Antifungals|group
 DDI-DrugBank.d141.s1|9-36|Magnesium-Aluminum Hydroxide|drug
 DDI-DrugBank.d141.s1|40-51|Cerivastatin|drug
 DDI-DrugBank.d141.s1|117-123|antacid|group
@@ -1809,6 +1808,7 @@ DDI-DrugBank.d97.s39|0-8|indinavir|drug
 DDI-DrugBank.d97.s40|20-28|indinavir|drug
 DDI-DrugBank.d97.s40|62-70|efavirenz|drug
 DDI-DrugBank.d97.s41|15-23|indinavir|drug
+DDI-DrugBank.d97.s41|121-129|efavirenz|drug
 DDI-DrugBank.d97.s42|0-9|Nelfinavir|drug
 DDI-DrugBank.d97.s43|0-8|indinavir|drug
 DDI-DrugBank.d97.s45|0-9|Nevirapine|drug
@@ -2019,7 +2019,7 @@ DDI-DrugBank.d17.s27|0-13|Norepinephrine|drug
 DDI-DrugBank.d17.s28|1-9|Thiazides|group
 DDI-DrugBank.d17.s28|51-64|norepinephrine|drug
 DDI-DrugBank.d17.s30|0-11|Tubocurarine|drug
-DDI-DrugBank.d17.s31|1-14|Thiazide drugs|group
+DDI-DrugBank.d17.s31|1-8|Thiazide|drug
 DDI-DrugBank.d17.s31|51-62|tubocurarine|drug
 DDI-DrugBank.d17.s32|255-272|thiazide diuretics|group
 DDI-DrugBank.d17.s32|411-419|potassium|drug

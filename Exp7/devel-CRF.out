@@ -102,7 +102,6 @@ DDI-DrugBank.d179.s30|2-10|Quinidine|drug
 DDI-DrugBank.d179.s30|19-26|Quinidex|brand
 DDI-DrugBank.d179.s32|2-10|Sulfoxone|drug
 DDI-DrugBank.d179.s32|19-25|Diasone|drug
-DDI-DrugBank.d179.s33|2-10|Vitamin K|group
 DDI-DrugBank.d179.s33|52-64|sulfapyridine|drug
 DDI-DrugBank.d179.s34|2-15|Anticoagulants|group
 DDI-DrugBank.d179.s34|18-31|blood thinners|group
@@ -214,7 +213,6 @@ DDI-MedLine.d159.s0|45-61|alpha lipoic acid|drug
 DDI-MedLine.d159.s0|93-105|diepoxybutane|drug
 DDI-MedLine.d159.s1|61-81|1,2:3,4-diepoxybutane|drug_n
 DDI-MedLine.d159.s3|167-173|epoxide|drug
-DDI-MedLine.d159.s4|58-69|antioxidants|group
 DDI-MedLine.d159.s6|5-22|acetyl-l-carnitine|drug
 DDI-MedLine.d159.s6|115-131|alpha-lipoic acid|drug
 DDI-DrugBank.d590.s0|32-45|clarithromycin|drug
@@ -234,7 +232,7 @@ DDI-MedLine.d47.s1|104-114|minocycline|drug
 DDI-MedLine.d47.s2|0-6|Buforin|drug
 DDI-MedLine.d47.s3|69-80|azithromycin|drug
 DDI-MedLine.d47.s3|85-95|minocycline|drug
-DDI-MedLine.d47.s4|0-9|Buforin II|drug
+DDI-MedLine.d47.s4|0-6|Buforin|drug
 DDI-MedLine.d47.s4|107-118|azithromycin|drug
 DDI-MedLine.d47.s4|123-133|minocycline|drug
 DDI-DrugBank.d308.s1|15-48|central nervous system depressants|group
@@ -1150,7 +1148,7 @@ DDI-DrugBank.d171.s0|171-181|propranolol|drug
 DDI-DrugBank.d171.s0|184-193|nifedipine|drug
 DDI-DrugBank.d171.s0|196-211|chlordiazepoxide|drug
 DDI-DrugBank.d171.s0|214-221|diazepam|drug
-DDI-DrugBank.d171.s0|232-256|tricyclic antidepressants|drug
+DDI-DrugBank.d171.s0|232-256|tricyclic antidepressants|group
 DDI-DrugBank.d171.s0|259-267|lidocaine|drug
 DDI-DrugBank.d171.s0|270-281|theophylline|drug
 DDI-DrugBank.d171.s0|287-299|metronidazole|drug
@@ -1273,6 +1271,7 @@ DDI-DrugBank.d497.s0|57-84|carbonic anhydrase inhibitor|group
 DDI-DrugBank.d497.s1|84-95|brinzolamide|drug
 DDI-DrugBank.d497.s2|39-67|carbonic anhydrase inhibitors|group
 DDI-DrugBank.d497.s2|135-144|salicylate|group
+DDI-DrugBank.d497.s3|94-98|AZOPT|brand
 DDI-DrugBank.d497.s3|101-112|brinzolamide|drug
 DDI-DrugBank.d761.s0|0-6|Alcohol|drug
 DDI-DrugBank.d761.s0|108-114|alcohol|drug
@@ -1299,7 +1298,6 @@ DDI-DrugBank.d761.s8|187-200|contraceptives|group
 DDI-DrugBank.d761.s9|0-8|Phenytoin|drug
 DDI-DrugBank.d761.s9|165-173|phenytoin|drug
 DDI-DrugBank.d761.s10|0-10|Pravastatin|drug
-DDI-DrugBank.d761.s10|108-114|XENICAL|brand
 DDI-DrugBank.d761.s10|200-210|pravastatin|drug
 DDI-DrugBank.d761.s11|0-7|Warfarin|drug
 DDI-DrugBank.d761.s11|58-64|XENICAL|brand
@@ -1443,7 +1441,6 @@ DDI-DrugBank.d320.s3|167-179|phenobarbital|drug
 DDI-DrugBank.d320.s3|182-189|rifampin|drug
 DDI-DrugBank.d320.s3|212-229|azole antimycotics|group
 DDI-DrugBank.d320.s3|237-248|ketoconazole|drug
-DDI-DrugBank.d320.s4|8-26|protease inhibitors|group
 DDI-DrugBank.d320.s4|34-42|ritanovir|drug
 DDI-DrugBank.d320.s5|0-20|macrolide antibiotics|group
 DDI-DrugBank.d320.s5|28-39|erythromycin|drug
@@ -1728,7 +1725,7 @@ DDI-DrugBank.d141.s0|88-104|Azole Antifungals|group
 DDI-DrugBank.d141.s1|9-36|Magnesium-Aluminum Hydroxide|drug
 DDI-DrugBank.d141.s1|40-51|Cerivastatin|drug
 DDI-DrugBank.d141.s1|117-123|antacid|group
-DDI-DrugBank.d141.s2|0-9|CIMETlDINE|brand
+DDI-DrugBank.d141.s2|0-9|CIMETlDINE|drug
 DDI-DrugBank.d141.s2|12-23|Cerivastatin|drug
 DDI-DrugBank.d141.s2|89-98|cimetidine|drug
 DDI-DrugBank.d141.s3|0-13|CHOLESTYRAMINE|brand
@@ -1881,7 +1878,7 @@ DDI-DrugBank.d346.s1|70-74|REVIA|brand
 DDI-DrugBank.d346.s2|46-50|REVIA|brand
 DDI-DrugBank.d346.s2|56-65|disulfiram|drug
 DDI-DrugBank.d346.s3|72-83|thioridazine|drug
-DDI-DrugBank.d346.s4|16-20|REVIA|drug
+DDI-DrugBank.d346.s4|16-20|REVIA|brand
 DDI-DrugBank.d346.s4|43-48|opioid|group
 DDI-DrugBank.d346.s4|141-157|opioid analgesics|group
 DDI-DrugBank.d346.s5|113-118|opioid|group
@@ -2536,7 +2533,6 @@ DDI-DrugBank.d269.s3|151-178|monoamine oxidase inhibitors|group
 DDI-DrugBank.d269.s4|0-8|Clonidine|drug
 DDI-DrugBank.d269.s4|41-49|clonidine|drug
 DDI-DrugBank.d269.s5|70-78|clonidine|drug
-DDI-DrugBank.d269.s5|105-120|b-blocking agent|group
 DDI-DrugBank.d269.s6|0-8|Clonidine|drug
 DDI-DrugBank.d269.s7|0-11|Cyclosporine|drug
 DDI-DrugBank.d269.s7|46-57|cyclosporine|drug

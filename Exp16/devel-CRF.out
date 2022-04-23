@@ -49,7 +49,7 @@ DDI-DrugBank.d179.s3|50-60|oxandrolone|drug
 DDI-DrugBank.d179.s3|69-74|Anavar|brand
 DDI-DrugBank.d179.s3|78-89|oxymetholone|drug
 DDI-DrugBank.d179.s3|98-104|Anadrol|brand
-DDI-DrugBank.d179.s3|126-133|Winstrol|brand
+DDI-DrugBank.d179.s3|126-133|Winstrol|drug
 DDI-DrugBank.d179.s4|2-10|Androgens|group
 DDI-DrugBank.d179.s5|2-19|Antithyroid agents|group
 DDI-DrugBank.d179.s6|2-14|Carbamazepine|drug
@@ -234,6 +234,7 @@ DDI-DrugBank.d250.s4|46-55|Coly-Mycin|drug
 DDI-MedLine.d159.s0|21-38|acetyl-l-carnitine|drug
 DDI-MedLine.d159.s0|45-61|alpha lipoic acid|drug
 DDI-MedLine.d159.s0|93-105|diepoxybutane|drug
+DDI-MedLine.d159.s1|146-147|FA|brand
 DDI-MedLine.d159.s4|58-69|antioxidants|group
 DDI-MedLine.d159.s6|115-131|alpha-lipoic acid|drug
 DDI-DrugBank.d590.s0|20-25|TRITEC|brand
@@ -537,7 +538,8 @@ DDI-DrugBank.d739.s10|164-175|theophylline|drug
 DDI-DrugBank.d739.s10|178-187|prednisone|drug
 DDI-DrugBank.d739.s10|190-201|prednisolone|drug
 DDI-DrugBank.d739.s10|209-222|contraceptives|group
-DDI-DrugBank.d739.s10|225-260|norethindrone 1 mg/ethinyl estradiol|drug
+DDI-DrugBank.d739.s10|225-237|norethindrone|drug
+DDI-DrugBank.d739.s10|252-260|estradiol|drug
 DDI-DrugBank.d739.s10|271-281|terfenadine|drug
 DDI-DrugBank.d739.s10|284-290|digoxin|drug
 DDI-DrugBank.d739.s10|297-304|warfarin|drug
@@ -883,12 +885,10 @@ DDI-DrugBank.d197.s1|115-121|opioids|group
 DDI-DrugBank.d197.s2|51-61|sevoflurane|drug
 DDI-DrugBank.d197.s2|64-73|isoflurane|drug
 DDI-DrugBank.d197.s2|76-83|propofol|drug
-DDI-DrugBank.d197.s2|86-95|alfentanil|drug
 DDI-DrugBank.d197.s2|102-110|midazolam|drug
 DDI-DrugBank.d197.s3|40-54|dexmedetomidine|drug
 DDI-DrugBank.d197.s3|60-69|isoflurane|drug
 DDI-DrugBank.d197.s3|72-79|propofol|drug
-DDI-DrugBank.d197.s3|82-91|alfentanil|drug
 DDI-DrugBank.d197.s3|98-106|midazolam|drug
 DDI-DrugBank.d197.s4|81-88|PRECEDEX|brand
 DDI-DrugBank.d197.s4|116-123|PRECEDEX|brand
@@ -1971,7 +1971,8 @@ DDI-DrugBank.d346.s4|109-134|antidiarrheal preparations|group
 DDI-DrugBank.d346.s4|141-157|opioid analgesics|group
 DDI-DrugBank.d346.s5|92-96|REVIA|brand
 DDI-DrugBank.d346.s5|113-118|opioid|group
-DDI-MedLine.d74.s2|57-63|insulin|drug
+DDI-MedLine.d74.s2|49-63|dynamic insulin|drug
+DDI-MedLine.d74.s2|216-223|arginine|drug
 DDI-MedLine.d74.s2|233-239|glucose|drug
 DDI-MedLine.d74.s2|275-286|theophylline|drug
 DDI-MedLine.d74.s3|0-11|Theophylline|drug
@@ -2298,7 +2299,6 @@ DDI-DrugBank.d107.s16|144-157|ACE inhibitors|group
 DDI-DrugBank.d107.s17|29-35|lithium|drug
 DDI-DrugBank.d107.s17|71-79|enalapril|drug
 DDI-DrugBank.d107.s17|116-122|lithium|drug
-DDI-MedLine.d59.s0|45-62|cAMP-mediated acid|drug
 DDI-MedLine.d59.s0|77-85|carbachol|drug
 DDI-MedLine.d59.s3|38-46|carbachol|drug
 DDI-MedLine.d59.s4|75-83|carbachol|drug

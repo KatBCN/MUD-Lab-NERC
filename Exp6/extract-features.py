@@ -75,7 +75,7 @@ def extract_features(tokens) :
          tokenFeatures.append("formPrev2="+tPrev2)
          tokenFeatures.append("suf3Prev2="+tPrev2[-3:])
       else :
-         tokenFeatures.append("2oS") # indicates token is in second place of sentence
+         pass # do not add feature to indicate token in place of sentence
 
       if k<len(tokens)-1 :
          tNext = tokens[k+1][0]

@@ -101,7 +101,7 @@ def extract_features(tokens) :
          if not tPrev2.isalpha():
             tokenFeatures.append("Prev2=isNotAlpha")
       else :
-         tokenFeatures.append("2oS") # indicates token is in second place of sentence
+         pass # do not add feature to indicate token in place of sentence
 
       if k<len(tokens)-1 :
          tNext = tokens[k+1][0]

@@ -651,6 +651,7 @@ DDI-DrugBank.d241.s3|216-222|digoxin|drug
 DDI-DrugBank.d241.s3|302-311|furosemide|drug
 DDI-DrugBank.d241.s3|326-332|digoxin|drug
 DDI-DrugBank.d241.s4|14-23|furosemide|drug
+DDI-DrugBank.d241.s4|35-39|value|drug
 DDI-DrugBank.d241.s5|21-27|digoxin|drug
 DDI-DrugBank.d241.s5|52-58|digoxin|drug
 DDI-DrugBank.d241.s5|173-179|digoxin|drug
@@ -854,7 +855,6 @@ DDI-DrugBank.d197.s3|60-69|isoflurane|drug
 DDI-DrugBank.d197.s3|72-79|propofol|drug
 DDI-DrugBank.d197.s3|82-91|alfentanil|drug
 DDI-DrugBank.d197.s3|98-106|midazolam|drug
-DDI-DrugBank.d197.s4|166-173|hypnotic|group
 DDI-DrugBank.d197.s4|178-183|opioid|group
 DDI-DrugBank.d197.s5|0-21|Neuromuscular Blockers|group
 DDI-DrugBank.d197.s5|81-88|PRECEDEX|brand
@@ -1451,7 +1451,7 @@ DDI-MedLine.d100.s0|63-78|arachidonic acid|drug
 DDI-MedLine.d100.s1|51-66|arachidonic acid|drug
 DDI-MedLine.d100.s3|11-26|arachidonic acid|drug
 DDI-MedLine.d100.s4|0-31|Adenosine 3':5'-cyclic phosphate|drug
-DDI-MedLine.d100.s5|13-28|calcium blockers|group
+DDI-MedLine.d100.s5|0-28|Slow-channel calcium blockers|group
 DDI-MedLine.d100.s5|39-47|verapamil|drug
 DDI-MedLine.d100.s5|50-58|diltiazem|drug
 DDI-MedLine.d100.s5|64-73|nifedipine|drug
@@ -2123,6 +2123,7 @@ DDI-MedLine.d138.s1|45-52|oxytocin|drug
 DDI-MedLine.d138.s1|58-68|vasopressin|drug
 DDI-MedLine.d138.s2|44-51|oxytocin|drug
 DDI-MedLine.d138.s2|73-83|vasopressin|drug
+DDI-MedLine.d138.s3|68-75|hormones|group
 DDI-MedLine.d43.s6|100-117|diethylnitrosamine|drug
 DDI-MedLine.d43.s7|183-195|phenobarbital|drug
 DDI-DrugBank.d110.s0|28-47|anesthetic solutions|group

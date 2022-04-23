@@ -1342,7 +1342,6 @@ DDI-DrugBank.d357.s0|250-260|granisetron|drug
 DDI-DrugBank.d357.s0|263-272|dolasetron|drug
 DDI-DrugBank.d357.s0|275-286|palonosetron|drug
 DDI-DrugBank.d357.s0|293-301|alosetron|drug
-DDI-DrugBank.d357.s1|0-27|Antihypertensive Medications|group
 DDI-DrugBank.d357.s1|33-44|Vasodilators|group
 DDI-DrugBank.d357.s1|173-184|vasodilators|group
 DDI-DrugBank.d357.s3|0-19|Dopamine Antagonists|group
@@ -1927,7 +1926,7 @@ DDI-DrugBank.d346.s4|109-134|antidiarrheal preparations|group
 DDI-DrugBank.d346.s4|141-157|opioid analgesics|group
 DDI-DrugBank.d346.s5|92-96|REVIA|brand
 DDI-DrugBank.d346.s5|113-118|opioid|group
-DDI-MedLine.d74.s2|49-63|dynamic insulin|drug
+DDI-MedLine.d74.s2|57-63|insulin|drug
 DDI-MedLine.d74.s2|233-239|glucose|drug
 DDI-MedLine.d74.s2|275-286|theophylline|drug
 DDI-MedLine.d74.s3|0-11|Theophylline|drug
@@ -2162,6 +2161,7 @@ DDI-DrugBank.d371.s1|211-221|terfenadine|drug
 DDI-DrugBank.d371.s1|224-235|ketoconazole|drug
 DDI-DrugBank.d371.s1|238-249|erythromycin|drug
 DDI-DrugBank.d371.s1|256-269|troleandomycin|drug
+DDI-DrugBank.d371.s2|78-85|TAXOTERE|brand
 DDI-MedLine.d1.s4|85-94|sildenafil|drug
 DDI-MedLine.d1.s5|0-9|Sildenafil|drug
 DDI-MedLine.d1.s5|60-67|nitrates|group

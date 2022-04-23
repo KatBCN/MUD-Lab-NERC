@@ -1,7 +1,6 @@
 DDI-MedLine.d180.s1|4-22|3-Deazaneplanocin A|drug_n
 DDI-MedLine.d180.s1|40-61|S-adenosylhomocysteine|drug_n
 DDI-MedLine.d180.s1|72-91|hydrolase inhibitors|group
-DDI-MedLine.d180.s12|106-112|ABT-737|brand
 DDI-DrugBank.d278.s0|0-9|Enoxaparin|drug
 DDI-DrugBank.d278.s0|113-124|eptifibatide|drug
 DDI-DrugBank.d41.s0|0-13|Cholestyramine|drug
@@ -117,6 +116,7 @@ DDI-DrugBank.d179.s29|2-13|Procainamide|drug
 DDI-DrugBank.d179.s29|22-30|Pronestyl|brand
 DDI-DrugBank.d179.s30|2-10|Quinidine|drug
 DDI-DrugBank.d179.s30|19-26|Quinidex|brand
+DDI-DrugBank.d179.s31|2-8|Quinine|drug
 DDI-DrugBank.d179.s31|17-23|Quinamm|brand
 DDI-DrugBank.d179.s32|2-10|Sulfoxone|drug
 DDI-DrugBank.d179.s32|19-25|Diasone|drug
@@ -150,6 +150,7 @@ DDI-DrugBank.d179.s40|51-63|sulfapyridine|drug
 DDI-DrugBank.d179.s40|152-160|phenytoin|drug
 DDI-DrugBank.d78.s0|0-7|Antacids|group
 DDI-DrugBank.d78.s0|10-19|Sucralfate|drug
+DDI-DrugBank.d78.s0|22-26|Metal|brand
 DDI-DrugBank.d78.s0|51-60|Quinolones|group
 DDI-DrugBank.d78.s1|18-27|quinolones|group
 DDI-DrugBank.d78.s1|34-41|antacids|group
@@ -1127,7 +1128,7 @@ DDI-DrugBank.d163.s23|114-121|Accutane|drug_n
 DDI-DrugBank.d163.s24|150-157|Accutane|brand
 DDI-DrugBank.d163.s30|21-27|alcohol|drug
 DDI-DrugBank.d163.s31|108-115|Accutane|drug
-DDI-DrugBank.d163.s34|254-261|Accutane|drug
+DDI-DrugBank.d163.s34|254-261|Accutane|brand
 DDI-DrugBank.d163.s36|0-6|Glucose|drug
 DDI-DrugBank.d163.s36|33-40|Accutane|brand
 DDI-DrugBank.d163.s37|62-69|Accutane|brand
@@ -1503,7 +1504,7 @@ DDI-DrugBank.d213.s1|23-29|digoxin|drug
 DDI-DrugBank.d213.s1|35-43|digitoxin|drug
 DDI-DrugBank.d213.s1|77-94|antithyroid agents|group
 DDI-DrugBank.d213.s3|0-17|Antithyroid agents|group
-DDI-DrugBank.d213.s3|52-69|sodium iodide I131|drug
+DDI-DrugBank.d213.s3|66-69|I131|brand
 DDI-DrugBank.d213.s3|142-152|Carbimazole|drug
 DDI-DrugBank.d213.s4|26-39|anticoagulants|group
 DDI-DrugBank.d213.s5|55-67|anticoagulant|group
@@ -1554,6 +1555,7 @@ DDI-MedLine.d100.s8|17-32|calcium blockers|group
 DDI-MedLine.d100.s8|59-74|arachidonic acid|drug
 DDI-DrugBank.d654.s0|26-37|ketoconazole|drug
 DDI-DrugBank.d654.s1|191-202|ketoconazole|drug
+DDI-DrugBank.d654.s2|123-133|retapamulin|drug
 DDI-DrugBank.d654.s3|40-46|ALTABAX|brand
 DDI-DrugBank.d245.s0|27-38|sulfonylurea|group
 DDI-DrugBank.d245.s0|86-122|nonsteroidal anti-inflammatory agents|group
@@ -1932,7 +1934,7 @@ DDI-DrugBank.d97.s60|47-55|phenytoin|drug
 DDI-DrugBank.d97.s61|0-8|indinavir|drug
 DDI-DrugBank.d97.s63|0-7|CRIXIVAN|brand
 DDI-DrugBank.d97.s63|47-55|indinavir|drug
-DDI-DrugBank.d97.s64|0-23|Calcium Channel Blockers|group
+DDI-DrugBank.d97.s64|0-6|Calcium|drug
 DDI-DrugBank.d97.s64|26-40|Dihydropyridine|drug
 DDI-DrugBank.d97.s64|49-58|felodipine|drug
 DDI-DrugBank.d97.s64|61-70|nifedipine|drug
@@ -2327,7 +2329,6 @@ DDI-MedLine.d59.s0|77-85|carbachol|drug
 DDI-MedLine.d59.s2|31-39|carbachol|drug
 DDI-MedLine.d59.s3|38-46|carbachol|drug
 DDI-MedLine.d59.s4|75-83|carbachol|drug
-DDI-MedLine.d59.s4|156-175|cAMP-stimulated acid|drug
 DDI-DrugBank.d237.s0|0-8|Cisapride|drug
 DDI-DrugBank.d237.s1|113-121|cisapride|drug
 DDI-DrugBank.d237.s1|211-219|cisapride|drug

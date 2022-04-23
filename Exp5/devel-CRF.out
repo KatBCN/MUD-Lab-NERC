@@ -57,7 +57,6 @@ DDI-DrugBank.d179.s11|2-11|Disulfiram|drug
 DDI-DrugBank.d179.s11|20-27|Antabuse|brand
 DDI-DrugBank.d179.s13|2-10|Estrogens|group
 DDI-DrugBank.d179.s14|2-11|Etretinate|drug
-DDI-DrugBank.d179.s15|2-5|Gold|group
 DDI-DrugBank.d179.s16|2-19|Hydroxychloroquine|drug
 DDI-DrugBank.d179.s16|28-36|Plaquenil|drug
 DDI-DrugBank.d179.s17|24-33|Purinethol|brand
@@ -67,6 +66,7 @@ DDI-DrugBank.d179.s19|7-20|contraceptives|group
 DDI-DrugBank.d179.s19|55-62|estrogen|group
 DDI-DrugBank.d179.s20|8-22|anti-infectives|group
 DDI-DrugBank.d179.s21|2-15|Phenothiazines|group
+DDI-DrugBank.d179.s21|18-31|acetophenazine|drug
 DDI-DrugBank.d179.s21|49-62|chlorpromazine|drug
 DDI-DrugBank.d179.s21|71-79|Thorazine|drug
 DDI-DrugBank.d179.s21|83-94|fluphenazine|drug
@@ -985,6 +985,7 @@ DDI-DrugBank.d531.s83|61-70|amprenavir|drug
 DDI-DrugBank.d531.s84|0-46|Non-nucleoside reverse transcriptase inhibitors|group
 DDI-DrugBank.d531.s87|52-60|efavirenz|drug
 DDI-DrugBank.d531.s90|104-110|SUSTIVA|brand
+DDI-DrugBank.d531.s90|113-121|efavirenz|drug
 DDI-DrugBank.d531.s90|182-189|antacids|group
 DDI-DrugBank.d531.s90|192-203|azithromycin|drug
 DDI-DrugBank.d531.s90|206-215|cetirizine|drug
@@ -1416,6 +1417,7 @@ DDI-DrugBank.d213.s1|77-94|antithyroid agents|group
 DDI-DrugBank.d213.s3|0-17|Antithyroid agents|group
 DDI-DrugBank.d213.s3|142-152|Carbimazole|drug
 DDI-DrugBank.d213.s4|26-39|anticoagulants|group
+DDI-DrugBank.d213.s4|68-74|thyroid|group
 DDI-DrugBank.d213.s5|55-67|anticoagulant|group
 DDI-DrugBank.d320.s0|0-9|Chirocaine|drug
 DDI-DrugBank.d320.s0|75-85|anesthetics|group
@@ -1459,6 +1461,7 @@ DDI-MedLine.d100.s8|17-32|calcium blockers|group
 DDI-MedLine.d100.s8|59-74|arachidonic acid|drug
 DDI-DrugBank.d654.s0|26-37|ketoconazole|drug
 DDI-DrugBank.d654.s1|191-202|ketoconazole|drug
+DDI-DrugBank.d654.s2|123-133|retapamulin|drug
 DDI-DrugBank.d245.s0|27-38|sulfonylurea|group
 DDI-DrugBank.d245.s0|86-122|nonsteroidal anti-inflammatory agents|group
 DDI-DrugBank.d245.s0|171-181|salicylates|group
@@ -2181,6 +2184,7 @@ DDI-DrugBank.d107.s10|183-190|prazosin|drug
 DDI-DrugBank.d107.s10|196-202|digoxin|drug
 DDI-DrugBank.d107.s11|0-8|Enalapril|drug
 DDI-DrugBank.d107.s11|46-54|digitalis|group
+DDI-DrugBank.d107.s12|24-32|Potassium|drug
 DDI-DrugBank.d107.s12|35-43|Enalapril|drug
 DDI-DrugBank.d107.s12|49-57|enalapril|drug
 DDI-DrugBank.d107.s12|97-119|thiazide-type diuretics|group

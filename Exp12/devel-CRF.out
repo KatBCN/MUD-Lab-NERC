@@ -43,9 +43,7 @@ DDI-DrugBank.d179.s2|2-11|Amiodarone|drug
 DDI-DrugBank.d179.s2|20-28|Cordarone|drug
 DDI-DrugBank.d179.s3|2-18|Anabolic steroids|group
 DDI-DrugBank.d179.s3|39-46|Anabolin|brand
-DDI-DrugBank.d179.s3|50-60|oxandrolone|drug
 DDI-DrugBank.d179.s3|69-74|Anavar|brand
-DDI-DrugBank.d179.s3|78-89|oxymetholone|drug
 DDI-DrugBank.d179.s3|98-104|Anadrol|brand
 DDI-DrugBank.d179.s3|126-133|Winstrol|brand
 DDI-DrugBank.d179.s4|2-10|Androgens|group
@@ -93,11 +91,8 @@ DDI-DrugBank.d179.s21|239-250|promethazine|drug
 DDI-DrugBank.d179.s21|259-267|Phenergan|brand
 DDI-DrugBank.d179.s21|271-282|thioridazine|drug
 DDI-DrugBank.d179.s21|291-298|Mellaril|brand
-DDI-DrugBank.d179.s21|302-316|trifluoperazine|drug
 DDI-DrugBank.d179.s21|325-333|Stelazine|brand
-DDI-DrugBank.d179.s21|337-351|triflupromazine|drug
 DDI-DrugBank.d179.s21|360-366|Vesprin|brand
-DDI-DrugBank.d179.s21|370-381|trimeprazine|drug
 DDI-DrugBank.d179.s21|390-396|Temaril|brand
 DDI-DrugBank.d179.s22|2-11|Plicamycin|drug
 DDI-DrugBank.d179.s22|20-28|Mithracin|drug
@@ -119,7 +114,6 @@ DDI-DrugBank.d179.s31|2-8|Quinine|drug
 DDI-DrugBank.d179.s31|17-23|Quinamm|brand
 DDI-DrugBank.d179.s32|2-10|Sulfoxone|drug
 DDI-DrugBank.d179.s32|19-25|Diasone|drug
-DDI-DrugBank.d179.s33|2-10|Vitamin K|group
 DDI-DrugBank.d179.s33|19-30|AquaMEPHYTON|brand
 DDI-DrugBank.d179.s33|52-64|sulfapyridine|drug
 DDI-DrugBank.d179.s34|2-15|Anticoagulants|group
@@ -423,7 +417,7 @@ DDI-MedLine.d181.s7|94-102|thyroxine|drug
 DDI-MedLine.d181.s8|20-28|thyroxine|drug
 DDI-MedLine.d181.s8|35-44|simeticone|drug
 DDI-DrugBank.d359.s1|44-51|PEGANONE|brand
-DDI-DrugBank.d359.s1|87-95|Phenurone|drug
+DDI-DrugBank.d359.s1|87-95|Phenurone|brand
 DDI-DrugBank.d359.s1|98-108|phenacemide|drug
 DDI-DrugBank.d359.s2|34-56|hydantoin antiepileptic|group
 DDI-DrugBank.d359.s2|59-67|phenytoin|drug
@@ -1511,7 +1505,6 @@ DDI-DrugBank.d320.s3|167-179|phenobarbital|drug
 DDI-DrugBank.d320.s3|182-189|rifampin|drug
 DDI-DrugBank.d320.s3|212-229|azole antimycotics|group
 DDI-DrugBank.d320.s3|237-248|ketoconazole|drug
-DDI-DrugBank.d320.s4|8-26|protease inhibitors|group
 DDI-DrugBank.d320.s4|34-42|ritanovir|drug
 DDI-DrugBank.d320.s5|0-20|macrolide antibiotics|group
 DDI-DrugBank.d320.s5|28-39|erythromycin|drug
@@ -2246,6 +2239,7 @@ DDI-MedLine.d138.s1|45-52|oxytocin|drug
 DDI-MedLine.d138.s1|58-68|vasopressin|drug
 DDI-MedLine.d138.s2|44-51|oxytocin|drug
 DDI-MedLine.d138.s2|73-83|vasopressin|drug
+DDI-MedLine.d138.s3|68-75|hormones|group
 DDI-MedLine.d43.s6|100-117|diethylnitrosamine|drug
 DDI-MedLine.d43.s7|183-195|phenobarbital|drug
 DDI-DrugBank.d110.s0|28-47|anesthetic solutions|group
@@ -2618,6 +2612,7 @@ DDI-DrugBank.d22.s3|69-87|aminosalicylic acid|drug
 DDI-MedLine.d44.s0|11-20|etofibrate|drug
 DDI-MedLine.d44.s2|30-39|etofibrate|drug
 DDI-MedLine.d44.s5|72-83|triglyceride|drug
+DDI-MedLine.d44.s6|0-9|Etofibrate|drug
 DDI-MedLine.d44.s6|39-50|post-heparin|drug
 DDI-MedLine.d44.s6|92-106|3H-triglyceride|drug
 DDI-MedLine.d44.s7|71-80|etofibrate|drug
