@@ -23,3 +23,13 @@ Each experiment folder contains an updated extract-features.py file that include
 - Exp 16: Added features to indicate if not all the characters in the previous two and next two tokens are letters.
 - Exp 17: Added drug bank dictionary to main program and feature to indicate token's value in drug bank
 - Exp 18: Modified drug bank dictionary to be in lowercase
+- Exp 19: Added list of words provided in HSDB.txt and feature to indicate token's presence in the list
+- Exp 20: Modified the HSDB list to be a set of tokenized words from the HSDB.txt
+- Exp 21: Added feature to indicate previous token's drug bank dictionary value
+- Exp 22: Reset experiment to baseline and added feature to indicate current token's value in drug bank in order to compare results
+- Exp 23: Reset experiment to baseline and added feature to indicate current token's length in order to compare results
+- Exp 24: Added feature for current token's length to Exp21 - this experiment has the most features: CRF M.avg=74.4
+- Exp 25: Removed features related to the token two places after the current token: CRF M.avg=75.1
+- Exp 26: Removed features related to uppercase, lowercase, and letters of token two places before current token: CRF M.avg=75
+- Exp 27: Removed all features related to token two places before current token: CRF M.avg=74.8
+- Exp 28: Removed all features related to case and dictionary of previous token, removed feature related to letters of next token, M.avg=75
