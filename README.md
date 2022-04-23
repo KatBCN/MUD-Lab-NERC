@@ -7,7 +7,7 @@ Each experiment folder contains an updated extract-features.py file that include
 
 - Exp 1: Added features for token two places before current token.
 - Exp 2: Added features for token two places after current token.
-- Exp 3: Removed feature from Exp2 that identifies token as second to last place in sentence.
+- Exp 3: No change to previous experiment after correcting coding errors in Experiments 1 & 2
 - Exp 4: Added feature for prefix of length 3 to current token
 - Exp 5: Added feature for suffix and prefix of length 4 to current token
 - Exp 6: Added feature for suffix and prefix of length 5 to current token
@@ -21,3 +21,4 @@ Each experiment folder contains an updated extract-features.py file that include
 - Exp 14: Added features related to uppercase and lowercase for two next tokens
 - Exp 15: Added feature to indicate if not all the characters in the current token are letters, removed features related to case for next tokens
 - Exp 16: Added features to indicate if not all the characters in the previous two and next two tokens are letters.
+- Exp 17: Added drug bank dictionary to main program and feature to indicate token's value in drug bank
